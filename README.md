@@ -7,7 +7,7 @@ The name's Theophilus or **_phile.dev_**
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on growing as a Machine Learning Engineer
-- 🛠 AGI | Embodied AI | Robotics
+- 🛠 MLOps | Computer Vision
 - 👯 I’m looking to collaborate on machine and deep learning projects
 
 
