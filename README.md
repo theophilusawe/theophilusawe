@@ -1,5 +1,5 @@
 ## Hi there 👋
-The name's Theophilus or **_phile.dev_**
+The name's Theophilus or **_phile_**
 
 <!--
 **theophilusawe/theophilusawe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
