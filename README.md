@@ -1,3 +1,3 @@
-mle/mlops/dl
+ml, dl, mlops
 
 
